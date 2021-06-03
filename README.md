@@ -12,6 +12,8 @@ Along with this, there is a catch: the aliens will get smarter at avoiding your 
 
 Nonetheless, this game's purpose is to provide you a fun experience in shooting aliens and watching them get better.
 
+ I made this during the beginning of my Sophomore year of high school (Fall 2018).
+
 ## RUN GAME LOCALLY
 
 To run the game locally, download this project and run it in [Unity](https://unity.com/). 
