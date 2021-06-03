@@ -1,9 +1,8 @@
 # Brainy-Aliens
-Galaga-Style Alien AI Game | Available on the iOS App store
 
 ![](hoopswish.png)
 
-[Hoop Swish](https://apps.apple.com/gb/app/hoop-swish/id1434756400?ign-mpt=uo%3D2) is a basketball shooting game where you compete against the AI to see who can make the most shots. The game provides an enjoyable and competitive experience due to its many features and options.
+[Brainy Aliens](https://apps.apple.com/jp/app/brainy-aliens/id1441222991?l=en) is a basketball shooting game where you compete against the AI to see who can make the most shots. The game provides an enjoyable and competitive experience due to its many features and options.
 
 I made this during the summer in between my Freshman and Sophomore year of high school (Summer 2018). 
 
