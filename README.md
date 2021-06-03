@@ -1,34 +1,16 @@
 # Brainy-Aliens
 
-![](hoopswish.png)
+![](brainyaliens.png)
 
-[Brainy Aliens](https://apps.apple.com/jp/app/brainy-aliens/id1441222991?l=en) is a basketball shooting game where you compete against the AI to see who can make the most shots. The game provides an enjoyable and competitive experience due to its many features and options.
+[Brainy Aliens](https://apps.apple.com/jp/app/brainy-aliens/id1441222991?l=en) is a straightforward game where you have to shoot as many aliens as you can before the time runs out. The faster you shoot the aliens, the more points you will earn.
 
-I made this during the summer in between my Freshman and Sophomore year of high school (Summer 2018). 
-
-## CONTROLS
-
-Dragging and releasing the ball is how you shoot the ball, making gameplay very basic.
+However, the aliens' colors will change by going through all the colors of the rainbow. The color red has the highest point value, while purple has the lowest point value. But, if an alien reaches the color pink, you will lose points.
 
 
-## SPECIAL OPTIONS
-
-Power-ups can be used when playing against the AI, thus making it easier to win.
+Along with this, there is a catch: the aliens will get smarter at avoiding your bullets as the game progresses. This is due to a neural network/brain that evolves continuously in the game. As a result, the game gets harder.
 
 
-## ADVANCED AI
-
-The computer's shot is controlled by a sophisticated AI that can match your skills.
-
-
-## SIMPLE UI
-
-It's very easy to maneuver between gameplay and the settings.
-
-
-## COMPETITON
-
-See how many times you can beat the AI and view your statistics. Also, compare your win to loss ratio among your friends to see who is the best.
+Nonetheless, this game's purpose is to provide you a fun experience in shooting aliens and watching them get better.
 
 ## RUN GAME LOCALLY
 
@@ -37,6 +19,6 @@ To run the game locally, download this project and run it in [Unity](https://uni
 ## CONCEPTS
 
 - Genetic Algorithms
-- Physics (kinematics)
+- Neural Networks
 - Sprite design
 
